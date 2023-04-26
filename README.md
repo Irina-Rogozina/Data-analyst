@@ -82,6 +82,6 @@
 Итог №1
 Итог №2
 Контактная информация
-Email: name@email.com
-LinkedIn: https://www.linkedin.com/in/username/
-Личный сайт: https://www.username.com
+Email: irc.87@bk.ru
+Telegram: @melissa69
+
