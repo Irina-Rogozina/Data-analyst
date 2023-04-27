@@ -13,7 +13,7 @@
 
  - **Средства визуализации данных:**
  
-      <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/f24399104326413.Y3JvcCwyODM1LDIyMTcsMCwzMDg.png" width="100" />
+      <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/f24399104326413.Y3JvcCwyODM1LDIyMTcsMCwzMDg.png" width="50" />
 
 
 ## Проекты  
