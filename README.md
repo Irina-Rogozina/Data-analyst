@@ -13,7 +13,7 @@
 
  - **Средства визуализации данных:**
  
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" width="70" />
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" width="80" />
 
 
 ## Проекты  
