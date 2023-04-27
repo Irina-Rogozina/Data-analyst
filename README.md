@@ -9,8 +9,7 @@
 
  - **Системы управления базами данных:**
       
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mysql_original_wordmark_logo_icon_146417.png" width="45" />
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/postgresql_original_wordmark_logo_icon_146392.png" width="45" />
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mysql_original_wordmark_logo_icon_146417.png" width="45" /> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/postgresql_original_wordmark_logo_icon_146392.png" width="45" />
 
  - **Средства визуализации данных:** PowerBi
 
