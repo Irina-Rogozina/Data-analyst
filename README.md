@@ -3,7 +3,7 @@
 
 ## Навыки и технологии
 
- - **Инструменты анализа данных:** SQL, Excel
+ - **Инструменты анализа данных:** <img src="https://cdn.icon-icons.com/icons2/627/PNG/512/sql-file-rounded-rectangular-outlined-interface-symbol_icon-icons.com_57503.png" width="50" />, Excel
 
  - **Системы управления базами данных:** MySQL, PostgreSQL
 
