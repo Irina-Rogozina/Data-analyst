@@ -114,4 +114,3 @@
 
 **Telegram:** @melissa69
 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" width="40" />
