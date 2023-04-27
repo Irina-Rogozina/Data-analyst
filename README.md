@@ -7,7 +7,7 @@
  
       <img src="https://cdn.icon-icons.com/icons2/627/PNG/512/sql-file-rounded-rectangular-outlined-interface-symbol_icon-icons.com_57503.png" width="40" />      <img src="https://cdn.icon-icons.com/icons2/1156/PNG/96/1486565571-microsoft-office-excel_81549.png" width="40" />
 
- - **Системы управления базами данных:** MySQL, PostgreSQL
+ - **Системы управления базами данных:** <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mysql_original_wordmark_logo_icon_146417.png" width="40" /> PostgreSQL
 
  - **Средства визуализации данных:** PowerBi
 
@@ -110,4 +110,4 @@
 
 **Telegram:** @melissa69
 
-<img src="https://cdn.icon-icons.com/icons2/1156/PNG/96/1486565571-microsoft-office-excel_81549.png" width="50" />
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mysql_original_wordmark_logo_icon_146417.png" width="40" />
