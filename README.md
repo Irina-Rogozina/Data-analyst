@@ -11,7 +11,7 @@
       
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mysql_original_wordmark_logo_icon_146417.png" width="45" /> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/postgresql_original_wordmark_logo_icon_146392.png" width="45" />
 
- - **Средства визуализации данных:** PowerBi
+ - **Средства визуализации данных:** <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" width="40" />
 
 
 ## Проекты  
@@ -112,4 +112,4 @@
 
 **Telegram:** @melissa69
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/postgresql_original_wordmark_logo_icon_146392.png" width="40" />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" width="40" />
