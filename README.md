@@ -13,7 +13,7 @@
 
  - **Средства визуализации данных:**
  
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" width="100"Color=yellow />
+      <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/f24399104326413.Y3JvcCwyODM1LDIyMTcsMCwzMDg.png" width="100" />
 
 
 ## Проекты  
