@@ -1,0 +1,36 @@
+1 задание 
+
+WITH rate_max_date AS
+   (WITH max_date AS
+        (SELECT currency
+                , MAX(date) AS max_date
+        FROM public.rates_rg
+        GROUP BY 1)
+    SELECT a.*, b.rate
+    FROM max_date AS a
+      LEFT JOIN public.rates_rg AS b ON a.max_date = b.date AND a.currency = b.currency)
+SELECT id
+       , CASE WHEN a.currency <> 'RUR' THEN price * rate ELSE price END AS price_in_rur
+FROM public.sales_rg AS a
+    LEFT JOIN rate_max_date AS b ON a.currency = b.currency
+
+
+2 задание
+
+WITH next_lesson_week AS
+        (SELECT *
+                , LEAD(lesson_week) OVER (PARTITION BY student_id ORDER BY lesson_week) AS next_week
+        FROM (SELECT *
+                      , DATE_PART('week', lesson_day) AS lesson_week
+              FROM public.test_lessons_rogozina) AS a),
+    missed_week AS
+        (SELECT *
+                , next_week - lesson_week AS interval_week_lesson
+                , CASE WHEN next_week - lesson_week > 1 THEN 1 ELSE 0 END AS flag_missed_week
+        FROM next_lesson_week)
+SELECT teacher_id
+        , SUM(flag_missed_week) AS cnt_missed_week
+FROM missed_week
+GROUP BY 1
+HAVING SUM(flag_missed_week) > 0
+ORDER BY 2 DESC
