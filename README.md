@@ -112,5 +112,5 @@
 
 **E-mail:** irc.87@bk.ru
 
-**Telegram:** @melissa69
+**Telegram:** @RogozinaIrina
 
